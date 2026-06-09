@@ -4,7 +4,7 @@
 
 * **Development:** Custom E-commerce (Shopify/WP) & Tailor-made web applications.
 * **Infrastructure:** Server management (Plesk) and containerization with Docker.
-* **Optimization:**focus on UX/UI, Web Performance (WPO), and Security.
+* **Optimization:** focus on UX/UI, Web Performance (WPO), and Security.
 
 ---
 
