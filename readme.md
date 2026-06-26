@@ -1,22 +1,5 @@
-# Hi, I'm Jose Manuel Fernández 👋
+**[Web Vitals](https://chromewebstore.google.com/detail/web-vitals/illmkcoedmdanbkoihjpipllkaoakccm)** — A Chrome extension for complete website analysis in a single popup. Core Web Vitals, SEO audits, accessibility checks, server and DNS info, and tech-stack detection — all running locally in the browser.
 
-## What I do
+<sub>2,000+ users · 5.0 rating · v2.5.0</sub>
 
-* **Development:** Custom E-commerce (Shopify/WP) & Tailor-made web applications.
-* **Infrastructure:** Server management (Plesk) and containerization with Docker.
-* **Optimization:** focus on UX/UI, Web Performance (WPO), and Security.
-
----
-
-### Personal projects
-
-* **[VANTAG.es](https://vantag.es):** My open-source hub and R&D lab. Focused on custom solutions, web pentesting, and SEO experimentation.
-* Maintaining **[Web Vitals](https://chromewebstore.google.com/detail/web-vitals/illmkcoedmdanbkoihjpipllkaoakccm)** extension.
-
----
-
-### Tech Stack
-
-* **Languages & Frameworks:** PHP, JavaScript, Astro, Liquid.
-* **CMS & E-commerce:** WordPress, Shopify, Hubspot.
-* **DevOps:** Docker, Plesk, Linux Servers, CI/CD.
+**[VANTAG.es](https://vantag.es)** — Open-source hub and R&D lab. Custom solutions, web pentesting and SEO experimentation.
